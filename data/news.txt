@@ -146,4 +146,4 @@ news "Wanderer race"
 			"Wanderers"
 	message
 		word
-			`"You see a group of wanderers take off, fly in a big circle, land, then hug each other. It seems it was some sort of race."`
+			"You see a group of wanderers take off, fly in a big circle, land, then hug each other. It seems it was some sort of race."
