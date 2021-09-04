@@ -78,7 +78,7 @@ news "Human or Hai font maker"
 			"I design fonts "
 			"I create fonts "
 			"I design typefaces "
-			"I create typefaes "
+			"I create typefaces "
 		word
 			"that cover "
 			"that support "
@@ -146,4 +146,4 @@ news "Wanderer race"
 			"Wanderers"
 	message
 		word
-			"You see a group of wanderers take off, fly in a big circle, land, then hug each other. It seems it was some sort of race."
+			"You see a group of Wanderers take off, fly in a big circle, land, then hug each other. It seems it was some sort of race."
